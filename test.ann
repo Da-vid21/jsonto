@@ -1,0 +1,134 @@
+T0	crop_variety 2 13 ABI Growler
+T1	trait 19 28 two-rowed
+T2	trait 29 33 malt
+T3	trait 53 68 yield potential
+T4	trait 111 116 yield
+T5	trait 121 132 test weight
+T6	trait 176 185 two-rowed
+T7	trait 186 190 malt
+T8	crop 191 197 barley
+T0	crop_variety 0 11 AAC Connect
+T1	trait 16 28 malt quality
+T2	crop_variety 40 51 AC Metcalfe
+T0	crop_variety 0 11 AAC Synergy
+Unknown keyterm DATE
+Unknown keyterm ORG
+T0	crop_variety 0 11 AAC Synergy
+T1	plant predisposition to disease 42 52 resistance
+T2	pathogen 56 72 foliar pathogens
+T0	crop_variety 0 11 AAC Synergy
+T1	trait 17 26 two-rowed
+T2	trait 27 31 malt
+T3	crop 32 38 barley
+T0	crop_variety 0 9 ABI Eagle
+T1	varietal alias 11 20 2B11-4949
+T0	crop_variety 0 9 ABI Eagle
+T1	crop_variety 25 33 Merit 57
+T2	trait 52 59 protein
+T3	trait 66 78 heading date
+T4	crop_variety 97 104 Voyager
+T5	trait 124 131 shorter
+T6	trait 137 143 plumps
+T0	crop_variety 0 11 ABI Growler
+T1	varietal alias 13 22 2B09-3425
+Unknown keyterm DATE
+Unknown keyterm ORG
+T0	crop_variety 0 11 ABI Growler
+T1	trait 29 34 thins
+T0	crop_variety 0 11 ABI Voyager
+T1	varietal alias 13 18 B3719
+Unknown keyterm DATE
+Unknown keyterm ORG
+T4	crop_variety 71 78 Voyager
+T5	trait 114 123 two-rowed
+T6	trait 124 128 malt
+T0	crop_variety 0 11 ABI Voyager
+T1	plant predisposition to disease 15 26 susceptible
+T2	pathogen 30 50 cereal cyst nematode
+T3	pathogen 52 55 CCN
+T4	pathogen 66 69 FHB
+T5	trait 76 92 DON accumulation
+T0	crop_variety 0 11 AC Metcalfe
+T1	varietal alias 13 18 TR232
+T2	trait 21 30 two-rowed
+T3	trait 31 38 malting
+T4	crop 39 45 barley
+Unknown keyterm DATE
+Unknown keyterm ORG
+T7	trait 114 121 quality
+T8	trait 129 144 yield potential
+T9	trait 163 169 taller
+T10	trait 183 194 test weight
+T11	trait 199 206 lodging
+T12	crop_variety 210 216 Conrad
+T0	crop_variety 14 25 AAC Connect
+T1	varietal alias 27 34 TR04282
+Unknown keyterm DATE
+Unknown keyterm ORG
+T4	crop_variety 77 88 AAC Connect
+T0	trait 0 12 FHB reaction
+T1	crop_variety 43 54 ABI Voyager
+T0	trait 14 31 DON accumulations
+T1	crop_variety 48 55 Voyager
+T0	crop_variety 0 7 Growler
+T1	trait 29 35 height
+T2	trait 37 48 test weight
+T3	trait 50 58 proteins
+T4	trait 63 69 plumps
+T5	trait 96 108 heading date
+T6	trait 119 126 lodging
+T7	crop_variety 132 139 Voyager
+T0	trait 0 6 Height
+T1	crop_variety 10 17 Synergy
+T2	crop_variety 43 51 Copeland
+T3	crop_variety 65 71 Conrad
+T4	trait 106 113 lodging
+Unknown keyterm DATE
+T1	trait 30 37 protein
+T2	trait 99 104 yield
+T0	pathogen 3 23 Fusarium head blight
+T1	pathogen 25 28 FHB
+T2	crop_variety 48 59 AAC Synergy
+T3	trait 82 103 indices for infection
+T4	trait 141 166 levels of DON on the seed
+T0	trait 8 20 mid-maturity
+T1	trait 21 30 two-rowed
+T2	plant predisposition to disease 44 63 moderate resistance
+T3	pathogen 64 72 stemrust
+T4	pathogen 74 85 spot blotch
+T5	pathogen 87 110 spot form of net blotch
+T6	pathogen 112 116 SFNB
+T7	pathogen 123 143 Fusarium head blight
+T8	pathogen 145 148 FHB
+T0	trait 0 7 Lodging
+T1	crop_variety 31 38 Voyager
+T2	trait 44 51 protein
+T0	trait 0 7 Lodging
+T0	trait 8 13 yield
+T1	crop_variety 67 78 ABI Growler
+T2	trait 103 114 test weight
+T3	trait 119 125 plumps
+T0	crop_variety 0 7 Synergy
+Unknown keyterm ORG
+Unknown keyterm GPE
+T0	crop_variety 37 48 LCS Odyssey
+T1	crop_variety 64 75 Moravian 69
+T2	trait 89 100 test weight
+T3	trait 113 120 lodging
+Unknown keyterm GPE
+T1	crop_variety 32 43 AAC Connect
+T2	trait 59 65 taller
+T3	trait 92 99 lodging
+T4	trait 110 121 test weight
+T5	trait 126 140 percent plumps
+T0	crop_variety 0 7 Voyager
+T1	crop_variety 22 28 Conrad
+T2	trait 32 43 test weight
+T3	trait 66 78 heading date
+T4	trait 86 93 protein
+T5	trait 102 108 taller
+Unknown keyterm ORG
+T1	crop_variety 57 62 Eagle
+T2	trait 126 131 yield
+T3	trait 136 147 test weight
+T4	crop_variety 167 178 ABI Voyager
